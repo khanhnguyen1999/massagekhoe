@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "booking": "Đặt lịch",
+    "contact": "Liên hệ",
+    "bookNow": "Đặt lịch ngay"
+  },
+  "hero": {
+    "headline": "Massage trị liệu thư giãn chuẩn Việt",
+    "subheadline": "Thư giãn cơ thể, phục hồi năng lượng và cân bằng cuộc sống với liệu trình massage truyền thống kết hợp thảo dược thiên nhiên.",
+    "book": "Đặt lịch ngay",
+    "services": "Xem bảng giá",
+    "badge": "Nghi thức trị liệu Việt cao cấp"
+  },
+  "why": {
+    "title": "Vì sao chọn Massage Khỏe Việt",
+    "copy": "Không gian thư giãn yên tĩnh nơi trị liệu Việt Nam hòa cùng sự chỉn chu, ấm áp và trải nghiệm cao cấp chuẩn spa nghỉ dưỡng.",
+    "traditional": { "title": "Trị liệu truyền thống Việt", "copy": "Kỹ thuật massage tập trung giải tỏa đau mỏi, lưu thông khí huyết và thư giãn sâu." },
+    "herbal": { "title": "Chăm sóc thảo dược", "copy": "Kết hợp thảo dược thiên nhiên, chườm ấm và ngâm tắm giúp cơ thể nhẹ nhõm, cân bằng." },
+    "japanese": { "title": "Thư giãn phong cách Nhật", "copy": "Không gian tinh tế, yên bình, lấy cảm hứng từ các spa cao cấp chuẩn Nhật Bản." },
+    "professional": { "title": "Dịch vụ chuyên nghiệp", "copy": "Đội ngũ tận tâm, quy trình chỉn chu và trải nghiệm đẳng cấp từ lúc đón tiếp đến khi nghỉ ngơi." }
+  },
+  "servicesPreview": {
+    "title": "Liệu trình phục hồi được thiết kế tinh tế",
+    "copy": "Lựa chọn gói trị liệu kết hợp sauna, thủy liệu pháp thảo dược, massage toàn thân và thức uống lành mạnh."
+  },
+  "gallery": {
+    "title": "Không gian trải nghiệm spa",
+    "copy": "Từ bồn tắm thảo dược đến khu thư giãn yên tĩnh, mọi chi tiết đều hướng đến sự cân bằng và hồi phục.",
+    "massage": "Massage",
+    "sauna": "Sauna",
+    "bath": "Tắm thảo dược",
+    "facial": "Chăm sóc da mặt",
+    "lounge": "Phòng thư giãn"
+  },
+  "store": {
+    "title": "Hình ảnh cửa hàng",
+    "copy": "Khám phá không gian đón tiếp, khu trị liệu và những góc thư giãn được chăm chút để mang lại cảm giác ấm áp, sạch sẽ và dễ chịu ngay từ khi bước vào."
+  },
+  "testimonials": {
+    "title": "Được khách hàng địa phương và du khách yêu thích",
+    "copy": "Khách ghé thăm để giảm đau mỏi, hồi phục giấc ngủ và tìm lại cảm giác an yên sau nhịp sống bận rộn.",
+    "items": [
+      {
+        "name": "Minh Anh",
+        "review": "Dịch vụ rất tốt, không gian đẹp và liệu trình thảo dược mang lại cảm giác rất thư giãn."
+      },
+      {
+        "name": "Sophie T.",
+        "review": "Một trải nghiệm spa Việt Nam cao cấp với đội ngũ thân thiện và kỹ thuật massage tuyệt vời."
+      },
+      {
+        "name": "David L.",
+        "review": "Rất phù hợp sau chuyến công tác dài ngày. Gói sauna và massage toàn thân thật sự đáng giá."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Sẵn sàng trải nghiệm thư giãn trọn vẹn?",
+    "button": "Đặt lịch"
+  },
+  "about": {
+    "title": "Hành trình chăm sóc sức khỏe từ tinh hoa trị liệu Việt",
+    "lead": "Massage Khỏe Việt ra đời với mong muốn kết nối massage truyền thống, thảo dược thiên nhiên và không gian phục hồi cao cấp giữa lòng TP. Hồ Chí Minh.",
+    "body1": "Triết lý của chúng tôi hướng đến chữa lành toàn diện: làm ấm cơ thể, xoa dịu hệ thần kinh và hỗ trợ khách hàng phục hồi sau áp lực công việc, di chuyển hay mệt mỏi thường ngày.",
+    "body2": "Mỗi liệu trình là sự giao thoa giữa giá trị dưỡng sinh Việt Nam và tinh thần tinh tế của spa nghỉ dưỡng phong cách Nhật.",
+    "timelineTitle": "Dấu mốc phát triển",
+    "start": "Khởi đầu với sứ mệnh nâng tầm massage trị liệu Việt trong không gian hiện đại và cao cấp.",
+    "herbs": "Mở rộng các nghi thức thảo dược và thủy liệu pháp lấy cảm hứng từ thiên nhiên.",
+    "expansion": "Phát triển thêm chi nhánh để phục vụ khách địa phương, dân văn phòng và du khách quốc tế.",
+    "today": "Tiếp tục mang đến trải nghiệm thư giãn, phục hồi và chăm sóc sức khỏe chỉn chu mỗi ngày."
+  },
+  "servicesPage": {
+    "title": "Bảng giá dịch vụ nổi bật",
+    "copy": "Những nghi thức spa được kết hợp hài hòa để thư giãn, phục hồi và tái tạo năng lượng toàn thân.",
+    "package": "Gói",
+    "includes": "Bao gồm",
+    "note": "Chưa bao gồm tip.",
+    "additional": "Dịch vụ bổ sung",
+    "compress": "Chườm thảo dược",
+    "each": "mỗi lần"
+  },
+  "booking": {
+    "title": "Đặt lịch chăm sóc sức khỏe",
+    "copy": "Chọn ngày, giờ và gói dịch vụ phù hợp. Phần này đã chuẩn bị sẵn để tích hợp API đặt lịch hoặc CRM trong bước tiếp theo.",
+    "fullName": "Họ và tên",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "date": "Ngày mong muốn",
+    "time": "Giờ mong muốn",
+    "service": "Gói dịch vụ",
+    "packageLabel": "Gói",
+    "notes": "Ghi chú",
+    "submit": "Đặt lịch",
+    "placeholder": {
+      "name": "Nhập họ và tên",
+      "phone": "Nhập số điện thoại",
+      "email": "ban@example.com",
+      "notes": "Chia sẻ thêm về yêu cầu riêng, tình trạng cơ thể hoặc liệu trình mong muốn."
+    },
+    "api": "Vị trí tích hợp Booking API"
+  },
+  "contact": {
+    "title": "Ghé thăm các chi nhánh tại TP. Hồ Chí Minh",
+    "copy": "Chọn địa điểm thuận tiện để trải nghiệm massage, sauna và chăm sóc sức khỏe bằng thảo dược cao cấp.",
+    "call": "Gọi ngay",
+    "directions": "Chỉ đường"
+  },
+  "footer": {
+    "company": "Thông tin công ty",
+    "links": "Liên kết nhanh",
+    "hours": "Giờ mở cửa",
+    "hoursValue": "Mỗi ngày: 9:00 - 23:00",
+    "social": "Mạng xã hội",
+    "rights": "Bảo lưu mọi quyền."
+  },
+  "seo": {
+    "homeTitle": "Massage Việt cao cấp, sauna và trị liệu thảo dược",
+    "aboutTitle": "Câu chuyện thương hiệu chăm sóc sức khỏe Việt",
+    "servicesTitle": "Dịch vụ và bảng giá",
+    "bookingTitle": "Đặt lịch massage",
+    "contactTitle": "Liên hệ chi nhánh"
+  }
+}

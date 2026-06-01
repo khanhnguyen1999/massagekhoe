@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "booking": "Booking",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "headline": "Authentic Vietnamese Wellness Massage",
+    "subheadline": "Restore your body, refresh your mind, and experience authentic Vietnamese wellness therapies.",
+    "book": "Book Now",
+    "services": "View Services",
+    "badge": "Luxury Vietnamese Healing Rituals"
+  },
+  "why": {
+    "title": "Why choose Massage Khoe Viet",
+    "copy": "A calm sanctuary where Vietnamese therapeutic traditions meet premium hospitality, herbal care, and restorative rituals designed for city life.",
+    "traditional": { "title": "Traditional Vietnamese Therapy", "copy": "Rooted techniques focused on pressure relief, circulation, and deep relaxation." },
+    "herbal": { "title": "Herbal Wellness", "copy": "Natural herbs, compresses, and baths to support detox, warmth, and comfort." },
+    "japanese": { "title": "Japanese-style Relaxation", "copy": "Refined spatial design and soothing rituals inspired by luxury Japanese spas." },
+    "professional": { "title": "Professional Service", "copy": "Thoughtful therapists, polished service, and a premium guest journey from arrival to rest." }
+  },
+  "servicesPreview": {
+    "title": "Wellness packages crafted for recovery",
+    "copy": "Choose a restorative session with sauna, herbal hydrotherapy, bodywork, and healthy refreshments."
+  },
+  "gallery": {
+    "title": "Spa experience gallery",
+    "copy": "From herbal baths to quiet lounges, every corner is designed to lower stress and restore balance.",
+    "massage": "Massage Therapy",
+    "sauna": "Sauna",
+    "bath": "Herbal Bath",
+    "facial": "Facial Treatment",
+    "lounge": "Relaxation Room"
+  },
+  "store": {
+    "title": "Storefront & interior",
+    "copy": "Explore the reception, treatment areas, and calm corners designed to make every visit feel warm, welcoming, and restorative."
+  },
+  "testimonials": {
+    "title": "Loved by locals and travelers",
+    "copy": "Guests come for muscle relief, sleep recovery, and the peaceful atmosphere that makes every visit feel like an escape.",
+    "items": [
+      {
+        "name": "Minh Anh",
+        "review": "Excellent service, beautiful atmosphere, and the herbal treatment felt incredibly authentic."
+      },
+      {
+        "name": "Sophie T.",
+        "review": "A luxurious Vietnamese spa experience with warm staff and exceptional massage quality."
+      },
+      {
+        "name": "David L.",
+        "review": "Perfect after a long work trip. The sauna and body massage package was worth every minute."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to experience complete relaxation?",
+    "button": "Book Appointment"
+  },
+  "about": {
+    "title": "Wellness inspired by Vietnamese healing traditions",
+    "lead": "Massage Khỏe Việt was created to bring together traditional massage, natural herbs, and quiet premium hospitality in the heart of Ho Chi Minh City.",
+    "body1": "Our philosophy centers on holistic healing: warming the body, calming the nervous system, and helping each guest recover from stress, travel fatigue, and everyday tension.",
+    "body2": "Every treatment combines authentic Vietnamese wellness values with the refinement of a Japanese luxury spa retreat.",
+    "timelineTitle": "Our journey",
+    "start": "Founded with a mission to elevate traditional Vietnamese massage in a modern premium setting.",
+    "herbs": "Expanded herbal rituals and hydrotherapy treatments using nature-inspired wellness practices.",
+    "expansion": "Opened a second branch to welcome more local guests, office workers, and international travelers.",
+    "today": "Continuing to deliver restorative, elegant, and accessible wellness experiences every day."
+  },
+  "servicesPage": {
+    "title": "Signature service menu",
+    "copy": "Thoughtfully layered spa rituals for relaxation, recovery, and full-body renewal.",
+    "package": "Package",
+    "includes": "Includes",
+    "note": "Tips not included.",
+    "additional": "Additional Service",
+    "compress": "Herbal Compress",
+    "each": "each"
+  },
+  "booking": {
+    "title": "Book your wellness appointment",
+    "copy": "Reserve your preferred date, time, and package. API integration can be connected to your scheduling or CRM system here.",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "service": "Service Package",
+    "packageLabel": "Package",
+    "notes": "Notes",
+    "submit": "Book Appointment",
+    "placeholder": {
+      "name": "Your full name",
+      "phone": "Your phone number",
+      "email": "you@example.com",
+      "notes": "Tell us your preferred therapist, special requests, or wellness goals."
+    },
+    "api": "Booking API placeholder"
+  },
+  "contact": {
+    "title": "Visit our Ho Chi Minh City branches",
+    "copy": "Choose the location that suits your schedule and enjoy premium massage, sauna, and herbal wellness care.",
+    "call": "Call Now",
+    "directions": "Get Directions"
+  },
+  "footer": {
+    "company": "Company Information",
+    "links": "Quick Links",
+    "hours": "Opening Hours",
+    "hoursValue": "Daily: 9:00 AM - 11:00 PM",
+    "social": "Social Media",
+    "rights": "All rights reserved."
+  },
+  "seo": {
+    "homeTitle": "Luxury Vietnamese Massage, Sauna & Herbal Wellness",
+    "aboutTitle": "About Our Vietnamese Wellness Story",
+    "servicesTitle": "Services & Pricing",
+    "bookingTitle": "Book a Massage Appointment",
+    "contactTitle": "Contact Our Branches"
+  }
+}
