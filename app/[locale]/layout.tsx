@@ -75,7 +75,7 @@ export default async function LocaleLayout({
       addressCountry: "VN"
     })),
     areaServed: ["Binh Thanh", "Phu Nhuan", "Ho Chi Minh City"],
-    inLanguage: locale === "vi" ? "vi-VN" : "en-US"
+    inLanguage: locale === "en" ? "en-US" : "vi-VN"
   };
 
   return (
