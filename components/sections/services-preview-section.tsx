@@ -58,10 +58,9 @@ export async function ServicesPreviewSection() {
         <div className="mt-6 rounded-[1.5rem] border border-accent/20 bg-secondary p-5 text-primary shadow-soft md:mt-8 md:rounded-[2rem] md:p-6">
           <p className="font-heading text-xl md:text-2xl">{t("servicesPage.additional")}</p>
           <p className="mt-2 text-sm leading-6 md:text-base">
-            {t("servicesPage.compress")}: <span className="font-semibold">400,000 VND</span>{" "}
+            {t("servicesPage.compress")}: <span className="font-semibold">400,000 VND / </span>{" "}
             {t("servicesPage.pack")}
           </p>
-          <p className="mt-2 text-sm text-primary/70">{t("servicesPage.note")}</p>
         </div>
       </div>
     </section>
