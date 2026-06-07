@@ -11,11 +11,15 @@ import { CtaBanner } from "@/components/sections/cta-banner";
 import type { SupportedLocale } from "@/lib/data";
 import { buildPageMetadata, buildWebPageSchema } from "@/lib/seo";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const locale = (await getLocale()) as SupportedLocale;
-  const t = await getTranslations("seo");
+export async function generateMetadata({
+  params
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "seo" });
   return buildPageMetadata({
-    locale,
+    locale: locale as SupportedLocale,
     pathname: "",
     title: t("homeTitle"),
     description: t("homeDescription")
