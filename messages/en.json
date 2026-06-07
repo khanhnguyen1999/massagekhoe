@@ -130,9 +130,14 @@
   },
   "seo": {
     "homeTitle": "Luxury Vietnamese Massage, Sauna & Herbal Wellness",
+    "homeDescription": "Massage Khỏe Việt offers therapeutic massage, sauna, herbal baths, and premium relaxation experiences in Ho Chi Minh City.",
     "aboutTitle": "About Our Vietnamese Wellness Story",
+    "aboutDescription": "Discover the story of Massage Khỏe Việt, where traditional Vietnamese healing meets refined wellness hospitality.",
     "servicesTitle": "Services & Pricing",
+    "servicesDescription": "Explore 70, 90, and 120-minute massage packages with sauna, herbal therapy, bodywork, and restorative wellness rituals.",
     "bookingTitle": "Book a Massage Appointment",
-    "contactTitle": "Contact Our Branches"
+    "bookingDescription": "Book your massage and wellness session at Massage Khỏe Việt with your preferred time and service package.",
+    "contactTitle": "Contact Our Branches",
+    "contactDescription": "Contact Massage Khỏe Việt branches in Binh Thanh and Phu Nhuan for direct calls, directions, and branch information."
   }
 }

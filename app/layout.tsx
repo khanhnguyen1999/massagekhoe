@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     default: siteConfig.name,
     template: `%s | ${siteConfig.name}`
   },
+  verification: {
+    google: "rT9_FpUwX6Xk5mCjFg471CeNo4jmYBhpwu0tI_MRu2k"
+  },
   icons: {
     icon: "/logo/logo.png",
     shortcut: "/logo/logo.png",

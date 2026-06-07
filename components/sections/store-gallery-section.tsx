@@ -22,6 +22,7 @@ export async function StoreGallerySection() {
                 src={storeGallery[0].image}
                 alt={storeGallery[0].title[locale]}
                 fill
+                sizes="(max-width: 1024px) 100vw, 58vw"
                 className="object-cover transition duration-700 group-hover:scale-105"
               />
             </div>
@@ -45,6 +46,7 @@ export async function StoreGallerySection() {
                     src={item.image}
                     alt={item.title[locale]}
                     fill
+                    sizes="(max-width: 1024px) 100vw, 42vw"
                     className="object-cover transition duration-700 group-hover:scale-105"
                   />
                 </div>

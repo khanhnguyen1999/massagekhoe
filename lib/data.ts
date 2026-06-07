@@ -16,12 +16,13 @@ export const locales = ["vi", "en"] as const;
 export const siteConfig = {
   name: "Massage Khỏe Việt",
   description:
-    "Luxury Vietnamese wellness massage, sauna, herbal therapies, and relaxation experiences in Ho Chi Minh City.",
+    "Massage Khỏe Việt cung cấp massage trị liệu, sauna, tắm thảo dược và chăm sóc thư giãn cao cấp tại Bình Thạnh và Phú Nhuận, TP. Hồ Chí Minh.",
   url: "https://massagekhoeviet.vn",
   directCallDisplay: "028 73092368",
   directCallHref: "tel:02873092368",
   keywords: [
     "massage khỏe việt",
+    "massage khoẻ việt",
     "vietnamese massage",
     "massage bình thạnh",
     "massage phú nhuận",
@@ -31,6 +32,11 @@ export const siteConfig = {
     "sauna massage"
   ]
 };
+
+export function getLocalePath(locale: SupportedLocale, path = "") {
+  const normalizedPath = path.startsWith("/") || path === "" ? path : `/${path}`;
+  return locale === "vi" ? `${siteConfig.url}${normalizedPath || "/"}` : `${siteConfig.url}/en${normalizedPath}`;
+}
 
 export const branches = [
   {

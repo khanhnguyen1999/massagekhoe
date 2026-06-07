@@ -45,6 +45,7 @@ export async function HeroSection() {
                 src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1400&q=80"
                 alt="Luxury Vietnamese wellness massage"
                 fill
+                sizes="(max-width: 1024px) 100vw, 48vw"
                 className="object-cover"
                 priority
               />

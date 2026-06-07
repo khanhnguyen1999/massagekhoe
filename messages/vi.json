@@ -118,9 +118,14 @@
   },
   "seo": {
     "homeTitle": "Massage Khoẻ Việt cao cấp, sauna và trị liệu thảo dược",
+    "homeDescription": "Massage Khỏe Việt mang đến massage trị liệu, sauna, tắm thảo dược và không gian thư giãn cao cấp tại TP. Hồ Chí Minh.",
     "aboutTitle": "Câu chuyện thương hiệu chăm sóc sức khỏe Việt",
+    "aboutDescription": "Khám phá câu chuyện Massage Khỏe Việt, nơi tinh hoa trị liệu truyền thống Việt kết hợp cùng không gian chăm sóc sức khỏe thư giãn và chỉn chu.",
     "servicesTitle": "Dịch vụ và bảng giá",
+    "servicesDescription": "Xem bảng giá các gói massage 70, 90 và 120 phút với sauna, tắm thảo dược, chườm thảo dược và liệu trình phục hồi toàn thân.",
     "bookingTitle": "Đặt lịch massage",
-    "contactTitle": "Liên hệ chi nhánh"
+    "bookingDescription": "Đặt lịch massage và chăm sóc sức khỏe tại Massage Khỏe Việt để lựa chọn thời gian và gói dịch vụ phù hợp với nhu cầu thư giãn của bạn.",
+    "contactTitle": "Liên hệ chi nhánh",
+    "contactDescription": "Liên hệ Massage Khỏe Việt tại Bình Thạnh và Phú Nhuận để gọi trực tiếp, xem bản đồ và tìm đường đến chi nhánh gần bạn."
   }
 }

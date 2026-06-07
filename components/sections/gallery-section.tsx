@@ -26,6 +26,11 @@ export async function GallerySection() {
                     src={item.image}
                     alt={t(item.key)}
                     fill
+                    sizes={
+                      index === 0 || index === 4
+                        ? "(max-width: 1280px) 100vw, 50vw"
+                        : "(max-width: 768px) 100vw, 25vw"
+                    }
                     className="object-cover transition duration-700 group-hover:scale-105"
                   />
                 </div>
