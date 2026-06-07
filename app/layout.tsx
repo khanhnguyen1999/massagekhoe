@@ -19,6 +19,11 @@ export const metadata: Metadata = {
     default: siteConfig.name,
     template: `%s | ${siteConfig.name}`
   },
+  icons: {
+    icon: "/logo/logo.png",
+    shortcut: "/logo/logo.png",
+    apple: "/logo/logo.png"
+  },
   description: siteConfig.description,
   keywords: siteConfig.keywords,
   openGraph: {
@@ -30,9 +35,9 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: `${siteConfig.url}/opengraph-image`,
-        width: 1200,
-        height: 630,
+        url: `${siteConfig.url}/logo/logo.png`,
+        width: 512,
+        height: 512,
         alt: siteConfig.name
       }
     ]
@@ -41,7 +46,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${siteConfig.url}/twitter-image`]
+    images: [`${siteConfig.url}/logo/logo.png`]
   },
   robots: {
     index: true,
