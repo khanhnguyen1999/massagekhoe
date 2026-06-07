@@ -60,7 +60,7 @@ export async function Footer() {
 
       <div className="border-t border-primary/10 py-5">
         <div className="container text-sm text-primary/60">
-          © 2026 Massage Khỏe Việt. {t("footer.rights")}
+          © 2026 Massage Khoẻ Việt. {t("footer.rights")}
         </div>
       </div>
     </footer>

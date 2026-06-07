@@ -21,7 +21,7 @@ export async function Navbar() {
     <header className="sticky top-0 z-50 border-b border-primary/10 bg-background/80 backdrop-blur-xl">
       <div className="container py-3 md:py-4">
         <div className="flex items-center justify-between gap-3 md:gap-4">
-          <Link href="/" aria-label="Massage Khỏe Việt Home">
+          <Link href="/" aria-label="Massage Khoẻ Việt Home">
             <Logo />
           </Link>
 

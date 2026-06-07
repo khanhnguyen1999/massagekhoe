@@ -14,9 +14,9 @@ import {
 export const locales = ["vi", "en"] as const;
 
 export const siteConfig = {
-  name: "Massage Khỏe Việt",
+  name: "Massage Khoẻ Việt",
   description:
-    "Massage Khỏe Việt cung cấp massage trị liệu, sauna, tắm thảo dược và chăm sóc thư giãn cao cấp tại Bình Thạnh và Phú Nhuận, TP. Hồ Chí Minh.",
+    "Massage Khoẻ Việt cung cấp massage trị liệu, sauna, tắm thảo dược và chăm sóc thư giãn cao cấp tại Bình Thạnh và Phú Nhuận, TP. Hồ Chí Minh.",
   url: "https://massagekhoeviet.vn",
   directCallDisplay: "028 73092368",
   directCallHref: "tel:02873092368",
@@ -40,7 +40,7 @@ export function getLocalePath(locale: SupportedLocale, path = "") {
 
 export const branches = [
   {
-    name: "Massage Khỏe Việt",
+    name: "Massage Khoẻ Việt",
     address: "39 Nguyễn Thượng Hiền, Phường 5, Bình Thạnh, Hồ Chí Minh City",
     phone: "0287 309 6689",
     mapEmbed:
@@ -49,7 +49,7 @@ export const branches = [
       "https://www.google.com/maps/search/?api=1&query=39+Nguyen+Thuong+Hien+Binh+Thanh+Ho+Chi+Minh"
   },
   {
-    name: "Massage Khỏe Việt",
+    name: "Massage Khoẻ Việt",
     address: "170 Đào Duy Anh, Phường 9, Phú Nhuận, Hồ Chí Minh City",
     phone: "0287 309 2368",
     mapEmbed:

@@ -6,7 +6,7 @@ export function Logo() {
       <div className="relative h-10 w-10 overflow-hidden rounded-full md:h-11 md:w-11">
         <Image
           src="/logo/logo.png"
-          alt="Massage Khỏe Việt logo"
+          alt="Massage Khoẻ Việt logo"
           fill
           className="object-cover"
           priority
@@ -14,7 +14,7 @@ export function Logo() {
       </div>
       <div>
         <p className="font-heading text-base font-semibold leading-none text-primary md:text-lg">
-          Massage Khỏe Việt
+          Massage Khoẻ Việt
         </p>
       </div>
     </div>

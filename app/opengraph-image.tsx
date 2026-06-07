@@ -46,7 +46,7 @@ export default function OpenGraphImage() {
           </div>
           <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
             <div style={{ fontSize: 74, lineHeight: 1.05, fontWeight: 700 }}>
-              Massage Khỏe Việt
+              Massage Khoẻ Việt
             </div>
             <div style={{ fontSize: 32, lineHeight: 1.4, maxWidth: 840 }}>
               Authentic Vietnamese massage, sauna, and herbal therapies in Ho Chi
