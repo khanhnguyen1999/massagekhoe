@@ -61,7 +61,7 @@ export default function OpenGraphImage() {
             }}
           >
             <span>Bình Thạnh • Phú Nhuận</span>
-            <span>massagekhoeviet.vn</span>
+            <span>massagekhoeviet.com</span>
           </div>
         </div>
       </div>

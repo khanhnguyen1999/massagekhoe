@@ -17,7 +17,7 @@ export const siteConfig = {
   name: "Massage Khoẻ Việt",
   description:
     "Massage Khoẻ Việt cung cấp massage trị liệu, sauna, tắm thảo dược và chăm sóc thư giãn cao cấp tại Bình Thạnh và Phú Nhuận, TP. Hồ Chí Minh.",
-  url: "https://massagekhoeviet.vn",
+  url: "https://massagekhoeviet.com",
   directCallDisplay: "028 73092368",
   directCallHref: "tel:02873092368",
   keywords: [
