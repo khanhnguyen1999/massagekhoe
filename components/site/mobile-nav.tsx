@@ -5,6 +5,7 @@ import { Menu, X } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { Button } from "@/components/ui/button";
 import { LanguageSwitcher } from "@/components/site/language-switcher";
+import { siteConfig } from "@/lib/data";
 
 type MobileNavProps = {
   links: Array<{ href: string; label: string }>;
@@ -58,9 +59,13 @@ export function MobileNav({ links, bookNowLabel }: MobileNavProps) {
             </nav>
 
             <div className="mt-auto space-y-4 pt-8">
-              <Link href="/booking" onClick={() => setOpen(false)} className="block">
+              <a
+                href={siteConfig.directCallHref}
+                onClick={() => setOpen(false)}
+                className="block"
+              >
                 <Button className="w-full">{bookNowLabel}</Button>
-              </Link>
+              </a>
             </div>
           </div>
         </div>

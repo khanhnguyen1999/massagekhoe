@@ -18,6 +18,8 @@ export const siteConfig = {
   description:
     "Luxury Vietnamese wellness massage, sauna, herbal therapies, and relaxation experiences in Ho Chi Minh City.",
   url: "https://massagekhoeviet.vn",
+  directCallDisplay: "028 73092368",
+  directCallHref: "tel:02873092368",
   keywords: [
     "massage khỏe việt",
     "vietnamese massage",

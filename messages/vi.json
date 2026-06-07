@@ -17,10 +17,10 @@
   "why": {
     "title": "Vì sao chọn Massage Khỏe Việt",
     "copy": "Không gian thư giãn yên tĩnh nơi trị liệu Việt Nam hòa cùng sự chỉn chu, ấm áp và trải nghiệm cao cấp chuẩn spa nghỉ dưỡng.",
-    "traditional": { "title": "Trị liệu truyền thống Việt", "copy": "Kỹ thuật massage tập trung giải tỏa đau mỏi, lưu thông khí huyết và thư giãn sâu." },
-    "herbal": { "title": "Chăm sóc thảo dược", "copy": "Kết hợp thảo dược thiên nhiên, chườm ấm và ngâm tắm giúp cơ thể nhẹ nhõm, cân bằng." },
-    "japanese": { "title": "Thư giãn phong cách Nhật", "copy": "Không gian tinh tế, yên bình, lấy cảm hứng từ các spa cao cấp chuẩn Nhật Bản." },
-    "professional": { "title": "Dịch vụ chuyên nghiệp", "copy": "Đội ngũ tận tâm, quy trình chỉn chu và trải nghiệm đẳng cấp từ lúc đón tiếp đến khi nghỉ ngơi." }
+    "traditional": { "title": "Không gian thư giãn – Phục hồi năng lượng", "copy": "Không gian thư giãn, cơ thể phục hồi, tái tạo năng lượng và cân bằng cuộc sống với liệu trình Massage truyền thống, chườm đá nóng kết hợp cùng thảo dược thiên nhiên, mang đến trải nghiệm chăm sóc sức khỏe trọn vẹn." },
+    "herbal": { "title": "Đội ngũ tận tâm – Dịch vụ chuyên nghiệp", "copy": "Đội ngũ phục vụ tận tâm, quy trình chỉn chu và kỹ thuật viên có tay nghề đồng đều, luôn mang đến chất lượng dịch vụ ổn định và sự hài lòng cho khách hàng." },
+    "japanese": { "title": "Liệu pháp giảm đau nhức chuyên sâu", "copy": "Kỹ thuật massage tập trung giải tỏa đau mỏi cổ vai gáy, lưng và chân tay, hỗ trợ lưu thông khí huyết, thư giãn sâu và cải thiện chất lượng giấc ngủ sau liệu trình." },
+    "professional": { "title": "Không gian trị liệu đậm bản sắc Việt", "copy": "Không gian yên tĩnh, ấm áp mang đậm nét văn hóa Việt Nam, kết hợp trải nghiệm trị liệu chuẩn spa nghỉ dưỡng giúp phục hồi sức khỏe và cân bằng thân tâm." }
   },
   "servicesPreview": {
     "title": "Liệu trình phục hồi được thiết kế tinh tế",
@@ -37,7 +37,7 @@
   },
   "store": {
     "title": "Hình ảnh cửa hàng",
-    "copy": "Khám phá không gian đón tiếp, khu trị liệu và những góc thư giãn được chăm chút để mang lại cảm giác ấm áp, sạch sẽ và dễ chịu ngay từ khi bước vào."
+    "copy": "Experience a thoughtfully designed reception area, treatment rooms, and relaxation spaces that create a warm, clean, and welcoming atmosphere from the moment you arrive."
   },
   "testimonials": {
     "title": "Được khách hàng địa phương và du khách yêu thích",
@@ -48,11 +48,11 @@
         "review": "Dịch vụ rất tốt, không gian đẹp và liệu trình thảo dược mang lại cảm giác rất thư giãn."
       },
       {
-        "name": "Sophie T.",
+        "name": "Tuấn Dũng",
         "review": "Một trải nghiệm spa Việt Nam cao cấp với đội ngũ thân thiện và kỹ thuật massage tuyệt vời."
       },
       {
-        "name": "David L.",
+        "name": "Lê Văn Hòa",
         "review": "Rất phù hợp sau chuyến công tác dài ngày. Gói sauna và massage toàn thân thật sự đáng giá."
       }
     ]
@@ -80,11 +80,12 @@
     "note": "Chưa bao gồm tip.",
     "additional": "Dịch vụ bổ sung",
     "compress": "Chườm thảo dược",
-    "each": "mỗi lần"
+    "each": "mỗi lần",
+    "pack": "Gói"
   },
   "booking": {
     "title": "Đặt lịch chăm sóc sức khỏe",
-    "copy": "Chọn ngày, giờ và gói dịch vụ phù hợp. Phần này đã chuẩn bị sẵn để tích hợp API đặt lịch hoặc CRM trong bước tiếp theo.",
+    "copy": "Chọn ngày, giờ và gói dịch vụ phù hợp để chúng tôi chuẩn bị trải nghiệm chăm sóc sức khỏe tốt nhất cho bạn.",
     "fullName": "Họ và tên",
     "phone": "Số điện thoại",
     "email": "Email",
@@ -99,8 +100,7 @@
       "phone": "Nhập số điện thoại",
       "email": "ban@example.com",
       "notes": "Chia sẻ thêm về yêu cầu riêng, tình trạng cơ thể hoặc liệu trình mong muốn."
-    },
-    "api": "Vị trí tích hợp Booking API"
+    }
   },
   "contact": {
     "title": "Ghé thăm các chi nhánh tại TP. Hồ Chí Minh",
@@ -112,7 +112,7 @@
     "company": "Thông tin công ty",
     "links": "Liên kết nhanh",
     "hours": "Giờ mở cửa",
-    "hoursValue": "Mỗi ngày: 9:00 - 23:00",
+    "hoursValue": "Mỗi ngày: 10:00 - 22:30",
     "social": "Mạng xã hội",
     "rights": "Bảo lưu mọi quyền."
   },

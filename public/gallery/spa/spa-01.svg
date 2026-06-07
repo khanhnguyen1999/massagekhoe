@@ -1,0 +1,9 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" fill="#F8F2EA"/>
+  <rect x="100" y="110" width="1200" height="780" rx="42" fill="#FFFDF9"/>
+  <rect x="170" y="300" width="1060" height="310" rx="40" fill="#D8BB8E"/>
+  <rect x="220" y="250" width="960" height="100" rx="28" fill="#E9D6B3"/>
+  <circle cx="340" cy="420" r="42" fill="#C9A66B"/>
+  <circle cx="1040" cy="420" r="42" fill="#C9A66B"/>
+  <text x="180" y="760" fill="#3B2A20" font-size="56" font-family="Georgia, serif">Massage Therapy</text>
+</svg>

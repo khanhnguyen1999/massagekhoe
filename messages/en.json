@@ -17,10 +17,22 @@
   "why": {
     "title": "Why choose Massage Khoe Viet",
     "copy": "A calm sanctuary where Vietnamese therapeutic traditions meet premium hospitality, herbal care, and restorative rituals designed for city life.",
-    "traditional": { "title": "Traditional Vietnamese Therapy", "copy": "Rooted techniques focused on pressure relief, circulation, and deep relaxation." },
-    "herbal": { "title": "Herbal Wellness", "copy": "Natural herbs, compresses, and baths to support detox, warmth, and comfort." },
-    "japanese": { "title": "Japanese-style Relaxation", "copy": "Refined spatial design and soothing rituals inspired by luxury Japanese spas." },
-    "professional": { "title": "Professional Service", "copy": "Thoughtful therapists, polished service, and a premium guest journey from arrival to rest." }
+    "traditional": {
+        "title": "Relaxing Atmosphere – Energy Restoration",
+        "copy": "Relax in a tranquil environment where your body can recover, restore energy, and regain balance through traditional massage, hot stone therapy, and natural herbal treatments, creating a complete wellness experience."
+      },
+      "herbal": {
+        "title": "Dedicated Team – Professional Service",
+        "copy": "Our dedicated staff, well-structured service process, and highly skilled therapists ensure consistent quality and an exceptional experience for every guest."
+      },
+      "japanese": {
+        "title": "Specialized Pain Relief Therapy",
+        "copy": "Our massage techniques focus on relieving tension in the neck, shoulders, back, arms, and legs, helping improve blood circulation, promote deep relaxation, and enhance sleep quality after each session."
+      },
+      "professional": {
+        "title": "Authentic Vietnamese Wellness Space",
+        "copy": "Experience a peaceful and welcoming environment inspired by Vietnamese culture, combined with resort-style wellness therapies designed to restore health and bring harmony to both body and mind."
+      }
   },
   "servicesPreview": {
     "title": "Wellness packages crafted for recovery",
@@ -80,11 +92,12 @@
     "note": "Tips not included.",
     "additional": "Additional Service",
     "compress": "Herbal Compress",
-    "each": "each"
+    "each": "each",
+    "pack": "Package"
   },
   "booking": {
     "title": "Book your wellness appointment",
-    "copy": "Reserve your preferred date, time, and package. API integration can be connected to your scheduling or CRM system here.",
+    "copy": "Choose your preferred date, time, and package so we can prepare the best wellness experience for you.",
     "fullName": "Full Name",
     "phone": "Phone Number",
     "email": "Email",
@@ -99,8 +112,7 @@
       "phone": "Your phone number",
       "email": "you@example.com",
       "notes": "Tell us your preferred therapist, special requests, or wellness goals."
-    },
-    "api": "Booking API placeholder"
+    }
   },
   "contact": {
     "title": "Visit our Ho Chi Minh City branches",

@@ -3,6 +3,7 @@ import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Button } from "@/components/ui/button";
 import { FadeIn } from "@/components/motion/fade-in";
+import { siteConfig } from "@/lib/data";
 
 export async function HeroSection() {
   const t = await getTranslations("hero");
@@ -23,11 +24,11 @@ export async function HeroSection() {
             </p>
           </div>
           <div className="flex flex-col gap-3 sm:flex-row">
-            <Link href="/booking" className="block sm:inline-block">
+            <a href={siteConfig.directCallHref} className="block sm:inline-block">
               <Button size="lg" className="w-full sm:w-auto">
                 {t("book")}
               </Button>
-            </Link>
+            </a>
             <Link href="/services" className="block sm:inline-block">
               <Button variant="outline" size="lg" className="w-full sm:w-auto">
                 {t("services")}

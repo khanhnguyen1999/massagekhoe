@@ -13,9 +13,6 @@ export async function BookingSection() {
         <div className="space-y-5">
           <h1 className="section-title">{t("title")}</h1>
           <p className="section-copy">{t("copy")}</p>
-          <div className="rounded-[1.75rem] border border-dashed border-accent/40 bg-secondary/70 p-5 text-sm text-primary/70">
-            {t("api")}
-          </div>
         </div>
 
         <form className="rounded-[2rem] border border-primary/10 bg-white p-6 shadow-soft md:p-8">

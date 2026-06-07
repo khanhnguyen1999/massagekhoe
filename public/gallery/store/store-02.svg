@@ -1,0 +1,21 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#FCFAF7"/>
+  <rect width="1600" height="1100" fill="url(#bg2)"/>
+  <rect x="110" y="130" width="1380" height="840" rx="44" fill="#FFF9F3"/>
+  <rect x="180" y="220" width="560" height="620" rx="34" fill="#EFE2CF"/>
+  <rect x="250" y="360" width="420" height="250" rx="40" fill="#C9A66B"/>
+  <rect x="290" y="315" width="340" height="70" rx="24" fill="#D8BB8E"/>
+  <rect x="780" y="220" width="620" height="620" rx="34" fill="#4A382D"/>
+  <rect x="840" y="300" width="500" height="460" rx="28" fill="#5C483B"/>
+  <circle cx="980" cy="420" r="78" fill="#8A9A7B"/>
+  <circle cx="1100" cy="390" r="62" fill="#97A787"/>
+  <circle cx="1200" cy="470" r="74" fill="#8A9A7B"/>
+  <text x="220" y="810" fill="#3B2A20" font-size="52" font-family="Georgia, serif">Không gian trị liệu ấm áp</text>
+  <text x="220" y="865" fill="#6B5B4F" font-size="28" font-family="Arial, sans-serif">Phòng massage yên tĩnh với tông gỗ và ánh sáng dịu.</text>
+  <defs>
+    <linearGradient id="bg2" x1="140" y1="90" x2="1500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F1E6"/>
+      <stop offset="1" stop-color="#E0C89F"/>
+    </linearGradient>
+  </defs>
+</svg>

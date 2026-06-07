@@ -1,0 +1,14 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#F5EFE7"/>
+  <rect x="100" y="120" width="1400" height="860" rx="50" fill="#FFFDF9"/>
+  <rect x="180" y="700" width="1240" height="180" rx="36" fill="#E0C89F"/>
+  <rect x="260" y="520" width="300" height="170" rx="30" fill="#D5B88A"/>
+  <rect x="610" y="500" width="380" height="190" rx="30" fill="#C9A66B"/>
+  <rect x="1040" y="520" width="300" height="170" rx="30" fill="#D5B88A"/>
+  <circle cx="320" cy="330" r="90" fill="#8A9A7B"/>
+  <circle cx="470" cy="280" r="76" fill="#97A787"/>
+  <circle cx="1110" cy="300" r="88" fill="#8A9A7B"/>
+  <circle cx="1270" cy="360" r="72" fill="#97A787"/>
+  <text x="220" y="170" fill="#3B2A20" font-size="58" font-family="Georgia, serif">Khu thư giãn xanh mát</text>
+  <text x="220" y="235" fill="#6B5B4F" font-size="30" font-family="Arial, sans-serif">Không gian nghỉ ngơi nhẹ nhàng sau liệu trình.</text>
+</svg>

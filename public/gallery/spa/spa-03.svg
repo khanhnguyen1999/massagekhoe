@@ -1,0 +1,11 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" fill="#FBF7F0"/>
+  <rect x="150" y="120" width="1100" height="760" rx="44" fill="#FFFDFC"/>
+  <ellipse cx="700" cy="500" rx="360" ry="190" fill="#C9A66B"/>
+  <ellipse cx="700" cy="500" rx="300" ry="150" fill="#E3CFAF"/>
+  <circle cx="560" cy="460" r="36" fill="#8A9A7B"/>
+  <circle cx="640" cy="420" r="28" fill="#97A787"/>
+  <circle cx="780" cy="430" r="32" fill="#8A9A7B"/>
+  <circle cx="860" cy="470" r="26" fill="#97A787"/>
+  <text x="190" y="780" fill="#3B2A20" font-size="56" font-family="Georgia, serif">Herbal Bath</text>
+</svg>

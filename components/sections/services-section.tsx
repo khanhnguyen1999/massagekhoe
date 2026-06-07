@@ -49,7 +49,7 @@ export async function ServicesSection() {
         <div className="mt-8 rounded-[2rem] border border-accent/20 bg-secondary p-6 text-primary shadow-soft">
           <p className="font-heading text-2xl">{t("additional")}</p>
           <p className="mt-2 text-base">
-            {t("compress")}: <span className="font-semibold">400,000 VND</span> {t("each")}
+            {t("compress")}: <span className="font-semibold">400,000 VND</span> {t("pack")}
           </p>
           <p className="mt-2 text-sm text-primary/70">{t("note")}</p>
         </div>

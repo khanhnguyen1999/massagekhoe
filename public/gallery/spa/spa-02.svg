@@ -1,0 +1,8 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" fill="#F5EEE4"/>
+  <rect x="120" y="120" width="1160" height="760" rx="40" fill="#4A382D"/>
+  <rect x="190" y="200" width="1020" height="600" rx="30" fill="#6A5547"/>
+  <path d="M320 650C360 540 500 470 700 470C900 470 1040 540 1080 650" stroke="#EAD9BA" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 360C420 310 460 270 510 270H890C940 270 980 310 980 360V430H420V360Z" fill="#A67F4E"/>
+  <text x="180" y="760" fill="#FFF8EF" font-size="56" font-family="Georgia, serif">Sauna</text>
+</svg>

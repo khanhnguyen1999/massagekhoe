@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/site/logo";
 import { LanguageSwitcher } from "@/components/site/language-switcher";
 import { MobileNav } from "@/components/site/mobile-nav";
+import { siteConfig } from "@/lib/data";
 
 export async function Navbar() {
   const t = await getTranslations("nav");
@@ -38,9 +39,9 @@ export async function Navbar() {
 
           <div className="hidden items-center gap-3 md:flex">
             <LanguageSwitcher />
-            <Link href="/booking">
+            <a href={siteConfig.directCallHref}>
               <Button>{t("bookNow")}</Button>
-            </Link>
+            </a>
           </div>
 
           <MobileNav links={links} bookNowLabel={t("bookNow")} />

@@ -89,7 +89,6 @@ export default async function LocaleLayout({
         <Navbar />
         <main>{children}</main>
         <Footer />
-        <FloatingContact />
         <MobileCTA />
       </div>
     </NextIntlClientProvider>

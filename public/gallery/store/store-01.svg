@@ -1,0 +1,28 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#F7F1E8"/>
+  <rect x="0" y="0" width="1600" height="1100" fill="url(#bg1)"/>
+  <rect x="120" y="120" width="1360" height="860" rx="44" fill="#FFF9F1" stroke="#C9A66B" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="190" y="210" width="420" height="620" rx="28" fill="#4A382D"/>
+  <rect x="230" y="250" width="140" height="220" rx="20" fill="#6A5547"/>
+  <rect x="430" y="250" width="140" height="220" rx="20" fill="#6A5547"/>
+  <rect x="230" y="520" width="140" height="220" rx="20" fill="#6A5547"/>
+  <rect x="430" y="520" width="140" height="220" rx="20" fill="#6A5547"/>
+  <circle cx="300" cy="320" r="46" fill="#8A9A7B"/>
+  <circle cx="315" cy="295" r="36" fill="#95A685"/>
+  <circle cx="500" cy="340" r="50" fill="#8A9A7B"/>
+  <circle cx="510" cy="310" r="38" fill="#95A685"/>
+  <circle cx="290" cy="610" r="44" fill="#8A9A7B"/>
+  <circle cx="510" cy="610" r="44" fill="#8A9A7B"/>
+  <rect x="710" y="270" width="620" height="420" rx="28" fill="#FFFDFC" stroke="#D9B883" stroke-width="3"/>
+  <path d="M790 360C830 305 910 305 950 360C990 305 1070 305 1110 360" stroke="#B05648" stroke-width="10" stroke-linecap="round"/>
+  <text x="805" y="430" fill="#B05648" font-size="64" font-family="Georgia, serif" font-style="italic">Massage Khỏe Việt</text>
+  <text x="805" y="520" fill="#3B2A20" font-size="28" font-family="Arial, sans-serif">Không gian đón tiếp thư giãn, ấm áp và gần gũi.</text>
+  <rect x="760" y="760" width="700" height="120" rx="24" fill="#E9D6B3"/>
+  <text x="805" y="835" fill="#3B2A20" font-size="36" font-family="Georgia, serif">Welcoming reception with natural greenery</text>
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1600" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCFAF7"/>
+      <stop offset="1" stop-color="#EBDCC5"/>
+    </linearGradient>
+  </defs>
+</svg>

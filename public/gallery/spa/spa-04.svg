@@ -1,0 +1,10 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" fill="#F6F0E7"/>
+  <rect x="120" y="100" width="1160" height="800" rx="48" fill="#FFF9F3"/>
+  <circle cx="700" cy="470" r="170" fill="#F1DFC2"/>
+  <circle cx="650" cy="430" r="18" fill="#C9A66B"/>
+  <circle cx="750" cy="430" r="18" fill="#C9A66B"/>
+  <path d="M620 545C670 585 730 585 780 545" stroke="#B88B57" stroke-width="16" stroke-linecap="round"/>
+  <rect x="530" y="620" width="340" height="60" rx="30" fill="#D5B88A"/>
+  <text x="180" y="800" fill="#3B2A20" font-size="56" font-family="Georgia, serif">Facial Treatment</text>
+</svg>

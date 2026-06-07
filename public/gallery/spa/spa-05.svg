@@ -1,0 +1,10 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" fill="#F7F2E8"/>
+  <rect x="120" y="120" width="1160" height="760" rx="42" fill="#FFFDFC"/>
+  <rect x="240" y="560" width="340" height="170" rx="34" fill="#D3B485"/>
+  <rect x="820" y="560" width="340" height="170" rx="34" fill="#D3B485"/>
+  <rect x="590" y="460" width="220" height="250" rx="34" fill="#C9A66B"/>
+  <circle cx="320" cy="320" r="76" fill="#8A9A7B"/>
+  <circle cx="1080" cy="320" r="76" fill="#8A9A7B"/>
+  <text x="180" y="805" fill="#3B2A20" font-size="56" font-family="Georgia, serif">Relaxation Lounge</text>
+</svg>

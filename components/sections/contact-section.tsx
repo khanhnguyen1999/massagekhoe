@@ -1,6 +1,6 @@
 import { Phone, MapPinned } from "lucide-react";
 import { getTranslations } from "next-intl/server";
-import { branches } from "@/lib/data";
+import { branches, siteConfig } from "@/lib/data";
 import { Button } from "@/components/ui/button";
 import { FadeIn } from "@/components/motion/fade-in";
 
@@ -35,11 +35,11 @@ export async function ContactSection() {
                   </p>
                   <p className="flex gap-3">
                     <Phone className="mt-1 h-4 w-4 shrink-0 text-accent" />
-                    <span>{branch.phone}</span>
+                    <span>{siteConfig.directCallDisplay}</span>
                   </p>
                 </div>
                 <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-                  <a href={`tel:${branch.phone.replace(/\s+/g, "")}`} className="sm:flex-1">
+                  <a href={siteConfig.directCallHref} className="sm:flex-1">
                     <Button className="w-full">{t("call")}</Button>
                   </a>
                   <a

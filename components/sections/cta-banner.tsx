@@ -1,6 +1,6 @@
 import { getTranslations } from "next-intl/server";
-import { Link } from "@/i18n/navigation";
 import { Button } from "@/components/ui/button";
+import { siteConfig } from "@/lib/data";
 
 export async function CtaBanner() {
   const t = await getTranslations("cta");
@@ -13,11 +13,11 @@ export async function CtaBanner() {
             <div>
               <h2 className="font-heading text-3xl md:text-4xl">{t("title")}</h2>
             </div>
-            <Link href="/booking">
+            <a href={siteConfig.directCallHref}>
               <Button variant="outline" className="border-secondary/20 bg-secondary text-primary hover:bg-secondary/90">
                 {t("button")}
               </Button>
-            </Link>
+            </a>
           </div>
         </div>
       </div>

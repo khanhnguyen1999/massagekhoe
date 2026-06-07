@@ -1,4 +1,5 @@
 import { MessageCircleMore, Phone } from "lucide-react";
+import { siteConfig } from "@/lib/data";
 
 export function FloatingContact() {
   return (
@@ -13,11 +14,9 @@ export function FloatingContact() {
         <MessageCircleMore className="h-5 w-5" />
       </a>
       <a
-        href="https://wa.me/842873096689"
-        target="_blank"
-        rel="noreferrer"
+        href={siteConfig.directCallHref}
         className="flex h-12 w-12 items-center justify-center rounded-full bg-success text-white shadow-glow transition hover:-translate-y-1"
-        aria-label="WhatsApp"
+        aria-label="Call now"
       >
         <Phone className="h-5 w-5" />
       </a>
